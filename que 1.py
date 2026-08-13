@@ -1,6 +1,5 @@
 
-numbers = [10, 20, 30, 40, 50]
-
+numbers = [10, 20, 30, 40, 50]git 
 # Access the third element (index 2)
 try:
 	third_element = numbers[2]
